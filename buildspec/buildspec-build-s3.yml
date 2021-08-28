@@ -9,7 +9,7 @@ env:
 phases:
   install:
     runtime-versions:
-      nodejs: 14.x
+      nodejs: 12.x
 
     commands:
       # temporary fix of YARN cert issue
