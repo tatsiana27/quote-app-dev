@@ -1,8 +1,8 @@
 version: 0.2
 
-#env:
-#  variables:
-    GIT_BRANCH: develop
+env:
+  variables:
+    GIT_BRANCH: master
     CI_NAME: CodeBuild
     # CODE_CLIMATE_REPORTER_ID: ""
     # CODECOV_TOKEN: ""
